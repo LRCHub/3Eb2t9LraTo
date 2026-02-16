@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Rondo",
+  "base_artist": "KID FRESINO",
+  "createdAt": "2026-02-16T15:45:04.534647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Outta Here Safe (feat. Quando Rondo and NoCap)",
+      "artist": "YoungBoy Never Broke Again feat. NoCap & Quando Rondo",
+      "has_synced": true,
+      "path": "select/01_Outta_Here_Safe_(feat._Quando_Rondo_and_NoCap)_YoungBoy_Never_Broke_Again_feat._NoCap_&_Quando_Rondo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Outta Here Safe (feat. Quando Rondo and NoCap)",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/02_Outta_Here_Safe_(feat._Quando_Rondo_and_NoCap)_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Need a Best Friend (feat. Lil Quee and Quando Rondo)",
+      "artist": "A Boogie Wit da Hoodie feat. Lil Quee & Quando Rondo",
+      "has_synced": true,
+      "path": "select/03_Need_a_Best_Friend_(feat._Lil_Quee_and_Quando_Rondo)_A_Boogie_Wit_da_Hoodie_feat._Lil_Quee_&_Quando_Rondo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Need a Best Friend (feat. Lil Quee and Quando Rondo)",
+      "artist": "A Boogie Wit da Hoodie; Lil Quee; Quando Rondo",
+      "has_synced": true,
+      "path": "select/04_Need_a_Best_Friend_(feat._Lil_Quee_and_Quando_Rondo)_A_Boogie_Wit_da_Hoodie;_Lil_Quee;_Quando_Rondo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RONDO",
+      "artist": "6ix9ine feat. Tory Lanez & Young Thug",
+      "has_synced": true,
+      "path": "select/05_RONDO_6ix9ine_feat._Tory_Lanez_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RONDO (feat. Tory Lanez and Young Thug)",
+      "artist": "6ix9ine",
+      "has_synced": true,
+      "path": "select/06_RONDO_(feat._Tory_Lanez_and_Young_Thug)_6ix9ine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Rondo A La Turk - previously unreleased",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/07_Blue_Rondo_A_La_Turk_-_previously_unreleased_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "world's end, girl's rondo",
+      "artist": "Kanon Wakeshima",
+      "has_synced": true,
+      "path": "select/08_world's_end,_girl's_rondo_Kanon_Wakeshima.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rondo of Nightmare",
+      "artist": "BABYMETAL",
+      "has_synced": false,
+      "path": "select/09_Rondo_of_Nightmare_BABYMETAL.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rondo Acapricio",
+      "artist": "Tosca",
+      "has_synced": false,
+      "path": "select/10_Rondo_Acapricio_Tosca.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rondo",
+      "artist": "KID FRESINO",
+      "has_synced": false,
+      "path": "select/pl_01_Rondo_KID_FRESINO.txt"
+    }
+  ]
+}
